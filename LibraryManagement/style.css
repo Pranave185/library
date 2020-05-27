@@ -1,0 +1,65 @@
+.second{
+    color: white;
+    background-color: rgb(4, 4, 63);
+    height: 100px;
+    
+}
+.lib{
+    margin-left: 50px;
+    size: 400px;
+    position: relative;
+}
+.title1{
+    margin-left: 150px;
+    margin-top: -70px;
+}
+.sec{
+    margin-left: 150px;
+}
+.anchor{
+    margin-left: 153px;
+    margin-top: -38px;
+}
+.third{
+    background-color: white;
+    width: 95%;
+    height: 95%;
+    position:absolute;
+    margin: 20px;
+    z-index: -20px;
+    margin-top: -3%;
+    margin-left: 7%;
+    
+}
+.spider{
+    margin-left: 17px;
+    margin-top: 60px;
+}
+.title2{
+    margin-left:150px ;
+    margin-top: -60px;
+}
+.sec2{
+    margin-left: 143px;
+}
+.anchor1{
+    margin-left: 153px;
+    margin-top: -40px;
+}
+.hulk{
+    margin-left: 89px;
+    margin-top: 62px;
+}
+.title3{
+    margin-left: 240px;
+    margin-top:-63px ;
+}
+.sec3{
+    margin-left: 243px;
+}
+.anchor2{
+    margin-left: 143px;
+    margin-top:-40px ;
+}
+
+
